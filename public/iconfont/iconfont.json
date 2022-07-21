@@ -1,0 +1,23 @@
+{
+  "id": "3477710",
+  "name": "SPH",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1420914",
+      "name": "down",
+      "font_class": "down",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "1420915",
+      "name": "up",
+      "font_class": "up",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    }
+  ]
+}
